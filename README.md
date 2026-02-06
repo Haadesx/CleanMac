@@ -11,7 +11,10 @@
 1. **Download** the `CleanMac.zip` from the link above.
 2. **Unzip** definition to get `CleanMac.app`.
 3. **Drag** `CleanMac.app` to your **Applications** folder.
-4. **Right-click** (Control+Click) the app and select **Open** (required for the first launch due to code signing).
+4. **Right-click** (Control+Click) the app and select **Open**.
+5. Click **Open** in the dialog box (this is required only once).
+
+> **Note:** Since this is a free open-source app and not notarized by Apple, you might see a warning saying *"Apple could not verify CleanMac is free of malware"*. This is normal for apps not distributed via the App Store. **Right-clicking and choosing Open** is the safe way to bypass this.
 
 ---
 
