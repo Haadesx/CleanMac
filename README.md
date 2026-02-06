@@ -98,10 +98,15 @@ Contributions are welcome! Please read our contributing guidelines before submit
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 🙏 Acknowledgments
+## 🙏 Acknowledgments & Credits
+
+**Concept inspired by CleanMyMac.**
+
+This project was built with a simple belief: **Essential system maintenance tools should be free and accessible to everyone.**
+
+While we admire the utility of premium tools, we refuse to accept that keeping your computer clean requires a subscription. CleanMac is our answer—high-quality, privacy-focused, and forever free.
 
 - Built following [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
-- Inspired by CleanMyMac and other macOS utilities
 - Uses SF Symbols for iconography
 
 ---
