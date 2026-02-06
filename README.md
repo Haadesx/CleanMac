@@ -111,4 +111,12 @@ While we admire the utility of premium tools, we refuse to accept that keeping y
 
 ---
 
+## 👨‍💻 Author
+
+**Designed and Developed by Varesh Patel.**
+
+If you like this project, please give it a star ⭐️ on GitHub!
+
+---
+
 **Made with ❤️ for macOS**
