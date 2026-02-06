@@ -36,6 +36,17 @@
 - **Space Lens**: Visualize your disk usage with an interactive sunburst chart to find what's taking up space.
 - **Performance Monitor**: Real-time stats for CPU, Memory, Battery, and Network.
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="Pics/demo1.png" width="45%" />
+  <img src="Pics/demo2.png" width="45%" />
+</p>
+<p align="center">
+  <img src="Pics/demo3.png" width="45%" />
+  <img src="Pics/demo4.png" width="45%" />
+</p>
+
 ### Requirements
 - Xcode 15.0+
 - Swift 5.9+
